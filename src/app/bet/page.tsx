@@ -1,3 +1,6 @@
+/**
+ *
+ */
 export default function BetPage() {
   return (
     <div>

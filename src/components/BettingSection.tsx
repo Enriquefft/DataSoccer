@@ -1,5 +1,8 @@
 import { ValuePropositionSection } from "./ValuePropositionSection";
 
+/**
+ *
+ */
 export default function BettingSection() {
   return (
     <ValuePropositionSection

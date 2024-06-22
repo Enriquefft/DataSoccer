@@ -4,9 +4,6 @@ import Image from "next/image";
  * @returns CTA of landing page.
  */
 export function CTA() {
-
-
-
   return (
     <section className="container w-full px-4 py-6 md:px-6 md:py-8 lg:py-12 xl:py-16">
       <div className="grid gap-6 lg:grid-cols-[1fr_200px] lg:gap-8 xl:grid-cols-[1fr_400px]">
